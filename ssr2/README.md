@@ -1069,7 +1069,7 @@ window.onload = function() {
 希望能够帮助到刚接触vue服务端渲染像我当时一样不知所措的人
 
 ##代码下载地址
-
+https://github.com/tomashi/Vue2.0-SSR
 
 ##参考
 https://github.com/zyl1314/vue-ssr-demo/issues/2
